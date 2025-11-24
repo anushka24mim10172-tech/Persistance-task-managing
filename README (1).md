@@ -104,5 +104,5 @@ public void saveTasks() {
 ## Author:
 This project was developed by:
 
-* **NIPUN MITTAL** 
-* REG NO. 24MIM10186
+* **Anushka Aggarwal** 
+* REG NO. 24MIM10172
